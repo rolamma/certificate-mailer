@@ -7,7 +7,7 @@ export async function POST(req: Request) {
     service: "gmail",
     auth: {
       user: "rola.al3nzi@gmail.com", // حطي ايميلك
-      pass: "myhs nizt cjrv ayzm",   // كلمة مرور التطبيقات
+      pass: "zdgx mmya cmxm ivcj",   // كلمة مرور التطبيقات
     },
   });
 
