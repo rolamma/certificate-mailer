@@ -164,7 +164,7 @@ export default function Home() {
         </h1>
 
         <p className="mb-4 text-sm sm:text-base text-gray-700">
-          ارفعي القالب، ثم اضغطي على مكان الاسم.
+          ارفع القالب، ثم اضغط على مكان الاسم.
         </p>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
